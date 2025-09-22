@@ -1,1 +1,0 @@
-print("Thao ne hej hej ")
